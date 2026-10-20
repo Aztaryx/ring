@@ -1,0 +1,11 @@
+{
+ "latency_ms": 0.0,
+ "nofail": false,
+ "hitsound": true,
+ "bloom": true,
+ "play_rate": 1.0,
+ "edit_rate": 0.7,
+ "start_bar": 0,
+ "last_song": "",
+ "snap_i": 3
+}
